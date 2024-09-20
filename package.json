@@ -1,0 +1,11 @@
+{
+  "name": "storeapp",
+  "version": "1.0.0",
+  "description": "<h1>Made a normal  store app using pug,html,css,javascript,node js and express js</h1>\r <img src=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkykUT_jppJjLdWIh-nwqv-HlvmCTFD03N-g&s\"></img>",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
